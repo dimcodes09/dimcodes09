@@ -4,10 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=F75590&center=true&vCenter=true&width=700&height=60&lines=building+real+world+products+%F0%9F%9A%80;next.js+%2B+typescript+truther;learning+go+%2F+devops+rn;hackathon+addict+%F0%9F%8F%86)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=dimcodes09&label=PROFILE+VIEWS&color=F75590&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/dimcodes09?label=FOLLOW&style=for-the-badge&color=6C5CE7&logo=github"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=F75590&center=true&vCenter=true&width=700&height=60&lines=building+real+world+products+%F0%9F%9A%80;hackathon+addict+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
@@ -164,13 +161,12 @@ multi-agent AI finance platform — 7 specialist agents arguing about your money
 
 <div align="center">
 
-🥉 **TIT Srijan** — 2nd Runner Up *(CampusMart)*
-&nbsp;&nbsp;|&nbsp;&nbsp;
-🏅 **Kleos 4.0** — Top Participants *(TimeLock)*
-&nbsp;&nbsp;|&nbsp;&nbsp;
-🏅 **BGI Hackathon** — Top 10 *(Zyvora)*
-&nbsp;&nbsp;|&nbsp;&nbsp;
-🏅 **Buildathon** — Top 20 *(FinNext)*
+| event | result | project built |
+|-------|--------|----------------|
+| 🥉 TIT Srijan | **2nd Runner Up** | CampusMart |
+| 🏅 Buildathon | **Top 20 Participants** | FinNext |
+| 🏅 Kleos 4.0 | **Top Participants** | TimeLock |
+| 🏅 BGI Hackathon | **Top 10 Participants** | Zyvora |
 
 </div>
 
