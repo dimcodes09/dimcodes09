@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Divyanshu%20Kubde&fontSize=55&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Real%20World%20Products&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/dimcodes09">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Shipping+Real+World+Projects;Hackathon+Builder+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Full Stack Deve+%7C+DevOPs+%7C+Ai Automations;Shipping+Real+World+Projects;Hackathon+Builder+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
