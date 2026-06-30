@@ -19,7 +19,7 @@ class Developer:
     name      = "Divyanshu Kubde"
     role      = "Full Stack Developer"
     location  = "Bhopal, Madhya Pradesh, India 🇮🇳"
-    energy    = "main character energy 💅"
+    energy    = "main character energy 🌊"
 
     stack = [
         "Next.js", "TypeScript", "JavaScript", "React",
