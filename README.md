@@ -86,7 +86,7 @@ print("contributing to real world projects, one commit at a time 🔥")
 
 | project | status | vibe |
 |---|:---:|---|
-| 🛍️ **Zyvora** — nextgen e-commerce | 🟢 live | Next.js · Node.js · MongoDB · Groq API |
+| 🛍️ **Zyvora** — nextgen AI e-commerce | 🟢 live | Next.js · Node.js · MongoDB · Groq API |
 | 🎬 **CampusMart** — genz reel-based marketplace | 🟢 live | Next.js · Node.js · MongoDB · n8n |
 | 🔐 **TimeLock** — land records, nobody trust | 🟢 live | Next.js · PostgreSQL · Solana · Nvidia |
 | 💰 **FinNext** — multi-agent AI finance | 🟡 hackathon build | Next.js · TypeScript · Multi-Agent |
