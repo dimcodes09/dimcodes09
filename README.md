@@ -66,7 +66,7 @@ print("contributing to real world projects, one commit at a time 🔥")
 
 <br/>
 
-## 🏗️ how i build stuff
+## 🏗️ how i build stuff?
 
 <div align="center">
 
