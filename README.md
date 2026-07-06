@@ -219,7 +219,7 @@ multi-agent AI finance platform — 7 specialist agents arguing about your money
 <div align="center">
 
 > *"i'm not a great programmer, i'm just a good programmer with great habits."*
-> — Kent Beck, probably while debugging at 2am
+> — Kent Beck, probably while debugging at 1am
 
 </div>
 
