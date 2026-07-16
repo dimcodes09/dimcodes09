@@ -37,7 +37,7 @@ print("contributing to real world projects, one commit at a time 🔥")
 
 <br/>
 
-## 🌐 connect w mee
+## 🌐 connect w me
 
 <div align="center">
 
