@@ -10,7 +10,7 @@
 
 <br/>
 
-## ⚡ whoamii
+## ⚡ whoami
 
 ```python
 #!/usr/bin/env python3
