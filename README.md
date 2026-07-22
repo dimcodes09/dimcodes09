@@ -49,7 +49,7 @@ print("contributing to real world projects, one commit at a time 🔥")
 
 <br/>
 
-## 🧃 the stack i actually use
+## 🧃 the stack i actually usee
 
 <div align="center">
 
