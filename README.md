@@ -171,18 +171,6 @@ multi-agent AI finance platform — 7 specialist agents arguing about your money
 
 <br/>
 
-## 📊 the numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dimcodes09&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F75590&icon_color=6C5CE7&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=dimcodes09&theme=radical&hide_border=true&background=0d1117&stroke=F75590&ring=6C5CE7&fire=F75590&currStreakLabel=F75590" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimcodes09&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F75590&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dimcodes09&theme=react-dark&hide_border=true&bg_color=0d1117&color=F75590&line=6C5CE7&point=ffffff" width="48%"/>
-
-</div>
-
 <br/>
 
 <div align="center">
